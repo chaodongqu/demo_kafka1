@@ -4,4 +4,4 @@
 
   2 . add  kafka message comsumer (listener)
   
-  
+  3 . todo  -- send message key value (we only send string message now ...)
